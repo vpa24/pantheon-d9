@@ -10,8 +10,8 @@
 !/web/sites/*/services.yml
 
 # Ignore paths that contain user-generated content.
-/web/sites/*/files
-/web/sites/*/private
+#/web/sites/*/files
+#/web/sites/*/private
 
 # Ignore SimpleTest multi-site environment.
 /web/sites/simpletest
@@ -56,11 +56,11 @@
 # file.
 # ------------------------------------------------------------------
 /drush/Commands/contrib/
-/web/core/
-/web/modules/contrib/
-/web/themes/contrib/
-/web/profiles/contrib/
-/web/libraries/
+#/web/core/
+#/web/modules/contrib/
+#/web/themes/contrib/
+#/web/profiles/contrib/
+#/web/libraries/
 /web/private/scripts/quicksilver
 
 
