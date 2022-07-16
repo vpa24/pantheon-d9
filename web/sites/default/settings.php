@@ -1,6 +1,7 @@
 <?php
 
 echo "<h1>Hello Saturday</h1>";
+echo "<h1>Today is my best day</h1>";
 /**
  * Load services definition file.
  */
